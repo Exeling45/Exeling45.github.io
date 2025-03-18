@@ -1,0 +1,27 @@
+body{
+  text-align:center;
+  background-color:#8d69d6;
+  font-family: 18px;
+}
+
+.gambar{
+  height: 150px;
+  width: 150px;
+  border-radius: 300px;
+}
+
+p{
+  color: white;
+  font-size: 18px;
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+a{
+  display: block;
+  border-radius: 10px;
+  background-color: white;
+  color: slightblue;
+  padding : 10px;
+  margin: 10px 70px 0 70px;
+}

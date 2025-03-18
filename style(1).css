@@ -1,0 +1,68 @@
+*,
+html{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color:#8d69d6;
+}
+
+h1{
+  font-size:20px;
+  margin:10px 0 0 20px;
+}
+
+.gambar-1{
+  height:200px;
+  width:105px;
+  margin:20px 5px 20px 5px;
+}
+
+.gambar-2{
+  height:200px;
+  width:108px;
+  margin:20px 5px 20px 5px;
+}
+
+.gambar-3{
+  height:200px;
+  width:105px;
+  margin:20px 10px 20px 5px;
+}
+
+h2{
+  font-size:18px;
+  margin:0 0 0 20px;
+}
+
+h3{
+  font-size:16px;
+  margin:0 0 0 10px;
+}
+
+p{
+  font-size: 14px;
+  margin: 10px;
+  color: white;
+}
+
+ul{
+  height: 100px;
+  justify-content: center;
+  display: flex;
+  list-style-type: none;
+}
+
+li{
+  height: 100px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  margin:10px;
+}
+
+a{
+  color: white;
+}
